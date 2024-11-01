@@ -32,4 +32,4 @@ Assembler converts the assembly program to symbolic binary notation. Implemented
 Remaining sections are not available as of now, but I will add them later. If you find any issues with the code, a pull request would be highly appreciated.
 
 ### Contributor
-Yash Bhagwat (Blitztage)
+Ayush kumar (AK-AKIII)
